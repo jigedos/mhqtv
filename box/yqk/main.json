@@ -376,14 +376,19 @@
       ]
     }
   ],
-  "spider": "./cns/spider.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/mhqtv/master/box/yqk/dd_spider.jar",
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "lives": [
+"lives": [
     {
-      "name": "live",
-      "type": 0,
-      "url": "./cns/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9taHF0di9tYXN0ZXIvYm94L3lxay9kZGxpdmUuam9zbg=="
+          ]
+        }
+      ]
     }
-  ]
+  ],
 }
