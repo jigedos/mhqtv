@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/mhqtv/master/jar/MF.jar",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
@@ -30,7 +30,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
         },
         {
             "key": "WebDAV",
@@ -48,7 +48,7 @@
             "api": "csp_Bili",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/FongMi/main/json/bili.json"
         },
         {
             "key": "泥巴",
@@ -65,7 +65,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
         },
         {
             "key": "阿里采集",
